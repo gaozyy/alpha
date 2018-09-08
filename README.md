@@ -7,3 +7,6 @@
 - ricequant视频5～11
 - dataframe loc,iloc,at ..
 - Markovitz & 三因子
+- 牛市设定根据成交量
+- k-means for selecting stocks
+

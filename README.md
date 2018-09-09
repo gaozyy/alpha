@@ -9,4 +9,6 @@
 - Markovitz & 三因子
 - 牛市设定根据成交量
 - k-means for selecting stocks
+### 2018.9.9
+- rest
 

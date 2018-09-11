@@ -11,4 +11,5 @@
 - k-means for selecting stocks
 ### 2018.9.9
 - rest
-
+### 2018.9.10
+- markowitz 
